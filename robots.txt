@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hospedaje-california-beach-mancora.vercel.app/sitemap.xml
